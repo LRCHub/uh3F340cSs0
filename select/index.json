@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "One Night Magic",
+  "base_artist": "Hikaru Utada",
+  "createdAt": "2026-02-16T21:08:16.872882Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "One Night Magic (feat. Yamada Masashi) [Remastered 2018]",
+      "artist": "宇多田ヒカル & 山田将司",
+      "has_synced": false,
+      "path": "select/01_One_Night_Magic_(feat._Yamada_Masashi)_[Remastered_2018]_宇多田ヒカル_&_山田将司.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "One Night Magic",
+      "artist": "宇多田ヒカル",
+      "has_synced": false,
+      "path": "select/02_One_Night_Magic_宇多田ヒカル.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "One Night Magic",
+      "artist": "Utada Hikaru feat. Yamada Masashi",
+      "has_synced": false,
+      "path": "select/03_One_Night_Magic_Utada_Hikaru_feat._Yamada_Masashi.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "One Night Magic",
+      "artist": "Hikaru Utada; Yamada Masashi",
+      "has_synced": false,
+      "path": "select/04_One_Night_Magic_Hikaru_Utada;_Yamada_Masashi.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "One Night Magic",
+      "artist": "宇多田ヒカル & 山田将司",
+      "has_synced": false,
+      "path": "select/05_One_Night_Magic_宇多田ヒカル_&_山田将司.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "One Night Magic",
+      "artist": "宇多田ヒカル feat. 山田将司",
+      "has_synced": false,
+      "path": "select/06_One_Night_Magic_宇多田ヒカル_feat._山田将司.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "One Night Magic",
+      "artist": "宇多田ヒカル feat. Yamada Masashi",
+      "has_synced": false,
+      "path": "select/07_One_Night_Magic_宇多田ヒカル_feat._Yamada_Masashi.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "One Night Magic feat. Yamada Masashi",
+      "artist": "宇多田ヒカル",
+      "has_synced": false,
+      "path": "select/08_One_Night_Magic_feat._Yamada_Masashi_宇多田ヒカル.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "08.One Night Magic",
+      "artist": "宇多田ヒカル",
+      "has_synced": false,
+      "path": "select/09_08.One_Night_Magic_宇多田ヒカル.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "One Night Magic (Featuring Yamada Masashi)",
+      "artist": "宇多田ヒカル",
+      "has_synced": false,
+      "path": "select/10_One_Night_Magic_(Featuring_Yamada_Masashi)_宇多田ヒカル.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "One Night Magic feat. 山田将司",
+      "artist": "宇多田ヒカル",
+      "has_synced": false,
+      "path": "select/11_One_Night_Magic_feat._山田将司_宇多田ヒカル.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "One Night Magic",
+      "artist": "Hikaru Utada & 山田将司",
+      "has_synced": false,
+      "path": "select/12_One_Night_Magic_Hikaru_Utada_&_山田将司.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "One Night Magic",
+      "artist": "Utada, Hikaru & Yamada, Masashi",
+      "has_synced": false,
+      "path": "select/13_One_Night_Magic_Utada,_Hikaru_&_Yamada,_Masashi.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "One Night Magic Feat. Yamada Masashi",
+      "artist": "Utada Hikaru",
+      "has_synced": false,
+      "path": "select/14_One_Night_Magic_Feat._Yamada_Masashi_Utada_Hikaru.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "One Night Magic",
+      "artist": "Hikaru Utada",
+      "has_synced": true,
+      "path": "select/15_One_Night_Magic_Hikaru_Utada.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "One Night Magic feat.Yamada Masashi",
+      "artist": "宇多田 ヒカル",
+      "has_synced": false,
+      "path": "select/pl_01_One_Night_Magic_feat.Yamada_Masashi_宇多田_ヒカル.txt"
+    }
+  ]
+}
